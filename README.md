@@ -1,7 +1,6 @@
 # LinkedListSwift
 
-Simple Linked list on Swift
-And some simple methods 
+Simple Linked list on Swift and some simple methods 
 
 struct LinkedList {
     var head: Node?
